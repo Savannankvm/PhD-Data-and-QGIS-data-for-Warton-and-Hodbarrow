@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "SD4870_ep5-2500_B6.TIF"
+  Type "RASTER"
+  (348000.0000000000,470000.0000000000) (0,4723) Label "Pt 1",
+  (348000.0000000000,471000.0000000000) (0,0) Label "Pt 2",
+  (349000.0000000000,471000.0000000000) (4723,0) Label "Pt 3",
+  (349000.0000000000,470000.0000000000) (4723,4723) Label "Pt 4"
+  CoordSys Earth Projection 8, 79, "m", -2, 49, 0.9996012717, 400000, -100000
+  Units "m"
