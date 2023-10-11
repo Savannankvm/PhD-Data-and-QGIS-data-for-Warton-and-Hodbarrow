@@ -1,0 +1,63 @@
+********************************************************************
+
+EDINA DIGIMAP:
+
+DIGITAL DATA SUPPLY
+
+********************************************************************
+
+
+This data is distributed under licence by:
+
+    EDINA
+    University of Edinburgh
+    https://edina.ac.uk
+
+    Tel:    0131 650 3302
+    Fax:    0131 650 3308
+    Email:  digimap@ed.ac.uk
+		
+
+
+---------------------------------------------------------
+
+CONTENTS
+
+You will have received the data files listed below, each product and area has
+its own folder. Note that each data folder contains a conditions.txt file
+which states the conditions for use of the data within. These conditions can
+vary between different data products.
+
+
+
+-------------------------------------------------------------------------------
+Folder:           getmapping_rgb_25cm_4116160
+Extent:           316893.1017629049, 477782.9555206 - 317792.4471134049, 478305.32976610004
+Date Ordered:     17 July 2021 at 18:17:24
+Product:          High Resolution (25cm) Vertical Aerial Imagery
+Version:          Latest available (1998-2018)
+Format:           JPG
+Theme:            N/A
+Area:             4 tiles
+Tiles:
+ 
+Tile Name:        sd1677
+Extent:           316000.0, 477000.0 - 317000.0, 478000.0
+Last Amended:     9 May 2016
+Date Flown:       2016-05-09
+   
+Tile Name:        sd1678
+Extent:           316000.0, 478000.0 - 317000.0, 479000.0
+Last Amended:     9 May 2016
+Date Flown:       2016-05-09
+   
+Tile Name:        sd1777
+Extent:           317000.0, 477000.0 - 318000.0, 478000.0
+Last Amended:     9 May 2016
+Date Flown:       2016-05-09
+   
+Tile Name:        sd1778
+Extent:           317000.0, 478000.0 - 318000.0, 479000.0
+Last Amended:     9 May 2016
+Date Flown:       2016-05-09
+      
