@@ -1,0 +1,65 @@
+********************************************************************
+
+EDINA DIGIMAP:
+
+DIGITAL DATA SUPPLY
+
+********************************************************************
+
+
+This data is distributed under licence by:
+
+    EDINA
+    University of Edinburgh
+    https://edina.ac.uk
+
+    Tel:    0131 650 3302
+    Fax:    0131 650 3308
+    Email:  digimap@ed.ac.uk
+		
+
+
+---------------------------------------------------------
+
+CONTENTS
+
+You will have received the data files listed below, each product and area has
+its own folder. Note that each data folder contains a conditions.txt file
+which states the conditions for use of the data within. These conditions can
+vary between different data products.
+
+
+
+-------------------------------------------------------------------------------
+Folder:           ng_2500_6_4112586
+Extent:           347269.2599391374, 470372.37683354394 - 348813.81456288736, 471546.2383475939
+Date Ordered:     11 July 2021 at 16:45:55
+Product:          National Grid 1:2500 1st Revision
+Version:          Data
+Format:           TIFF
+Theme:            N/A
+Area:             1 files
+Files:
+ 
+File Name:        sd4870-6
+Extent:           348000.0, 470372.37683354394 - 348813.81456288736, 471000.0
+Last Amended:     1 January 1983
+Publication Date: 1983
+Survey Date:      0
+     -------------------------------------------------------------------------------
+Folder:           ng_10000_7_4112585
+Extent:           347269.2599391374, 470372.37683354394 - 348813.81456288736, 471546.2383475939
+Date Ordered:     11 July 2021 at 16:45:55
+Product:          National Grid 1:10 000 Latest Version
+Version:          Data
+Format:           TIFF
+Theme:            N/A
+Area:             1 files
+Files:
+ 
+File Name:        sd47se-7
+Extent:           347269.2599391374, 470372.37683354394 - 348813.81456288736, 471546.2383475939
+Last Amended:     1 January 1973
+Publication Date: 1973
+Survey Date:      0
+      

@@ -1,0 +1,15 @@
+The citations in this document should be used to reference the maps and data
+when they have been included in any essays, dissertations or other academic
+works. You should cite the data even if it doesn't appear as an image or map
+in your work if it has been used to generate findings or a new dataset that is
+used.
+
+There is one entry for each product and selected area; you can edit the
+citation if you only use part of the data it covers. Any citations provided
+below are a guide only and should be given in addition to any requirement to
+acknowledge sources and copyright of any data used or any local guidance
+provided:
+
+National Grid 1:2500 1st Revision [TIFF geospatial data], Scale 1:2500, Tiles: sd4870-6, Updated: 30 November 2010, Historic, Using: EDINA Historic Digimap Service, <https://digimap.edina.ac.uk>, Downloaded: 2021-07-11 16:45:55.138
+National Grid 1:10 000 Latest Version [TIFF geospatial data], Scale 1:10000, Tiles: sd47se-7, Updated: 30 November 2010, Historic, Using: EDINA Historic Digimap Service, <https://digimap.edina.ac.uk>, Downloaded: 2021-07-11 16:45:55.138
+
